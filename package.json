@@ -1,0 +1,12 @@
+{
+	"name": "butler",
+	"description": "CHANGE DESCRIPTION!!!!!!!!!",
+	"author": "dylanksys",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dylanksys/butler"
+	},
+	"dependencies": {
+		"express": "4.13.4"
+	}
+}
